@@ -1,5 +1,5 @@
 {
-	"packageUrl": "http://neobot.eshost.com.ar/update.zip",
+	"packageUrl": "https://martin78b.github.io/update.zip",
 	"packageFileName": "update.zip",
 	"packageConfigName": "config.json",
 	"forceUpdate": "true",
