@@ -11,9 +11,7 @@ Now interested in machine learning
 
 If you have a Kindle 7 or some other device without light sensor, you can use my app:
 
-[AmazonStore](https://www.amazon.com/dp/B079WCMRL8/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1519056126&sr=1-1)
-
-[Direct Link](https://github.com/Martin78b/Martin78b.github.io/raw/master/Lumosidad.apk)
+[Amazon Appstore](https://www.amazon.com/dp/B079WCMRL8/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1519056126&sr=1-1)
 
 ## Contact or hiring
 Write me to [![Mail](https://img.shields.io/badge/Mail-martin.78b@hotmail.com-red.svg)](mailto:martin.78b@hotmail.com)
