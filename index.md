@@ -1,10 +1,11 @@
 # Hi, I'm Martín
-a System Engineering/Systems analyst student from Argentina
-Actually working as tech support in Sidesys
+a System Engineering/Systems analyst student from Argentina.
+Actually working as tech support in Sidesys.
 
-Enthusiast for the information security
-C# and Java developer
+Enthusiast for the information security.
+C# and Java developer.
 Violin apprentice
+  
 
 
 If you have a Kindle 7 or some other device without light sensor, you can use my app:
