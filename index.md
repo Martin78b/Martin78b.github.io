@@ -13,5 +13,5 @@ If you have a Kindle 7 or some other device without light sensor, you can use my
 
 ## Contact or hiring
 Write me to [![Mail](https://img.shields.io/badge/Mail-martin.78b@hotmail.com-red.svg)](mailto:martin.78b@hotmail.com)
-or mention me [![Twitter](https://img.shields.io/badge/Twitter-@Martin78b-green.svg)](http://www.twitter.com/Martin78b)
+or mention/follow me on [![Twitter](https://img.shields.io/badge/Twitter-@Martin78b-green.svg)](http://www.twitter.com/Martin78b)
 more [About.me](http://about.me/martin78b)
